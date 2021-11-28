@@ -1,6 +1,6 @@
 # The Farlands
 
-Hand-on psychological support and breakdown-control when clinical therapies are unaccessible. Currently implemented by software component as a pan-video-game/*meta-universe* module, as well as motion sensing hardware, and more.
+Hand-on psychological support and breakdown-control when clinical therapies are out of reach. Currently implements motion-sensing/pan-videogame modules, through the conception of *meta-universe*, to simulate the effect of mental treatments under the framework of *process consultation*. Note that **This cannot entirely replace the necessity of pharmaceutical or electromegnetical interventions. Obey the instructions of the professional if available.**
 
 # Notice
 - Many people are suffering from mental distortions/illnesses as well as I. I couldn't turn a blind eye to this mess, but the contribution of mine alone is far from enough. Don't be mad at me for not updating this proj. or doing random stuff. I'm only here to help.
