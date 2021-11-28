@@ -2,6 +2,13 @@
 
 Hand-on psychological support and breakdown-control when clinical therapies are unaccessible. Currently implemented by software component as a pan-video-game/*meta-universe* module, as well as motion sensing hardware, and more.
 
+# Notice
+- Many people are suffering from mental distortions/illnesses as well as I. I couldn't turn a blind eye to this mess, but the contribution of mine alone is far from enough. Don't be mad at me for not updating this proj. or doing random stuff. I'm only here to help.
+- I do want a little bit of humor and warmth in this repository. In short, I want it to be Christmas here every day!
+- There is only one condition for contributors to be qualified: Being happy everyday, if you feel like that's what you want to do.
+- Whatever we want to do, we do, that's what a project is, you know. It's not only a repo and a frame and idea and the code, that's what a proj. *need*, but what a proj. *is*, is what `The Farlands` really is: **is freedom**.
+- @author DarkLordTI.
+
 ## Do We Really Have to Do This?
 
 A huge project indeed. I struggled a lot before starting it, since as I comprehend it would be something like proving the Riemann Hypothesis, but the final answer is positive.
